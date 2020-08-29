@@ -1,0 +1,2 @@
+C:\Users\Eva\source\repos\OuncesLab\Debug\OuncesLab.exe
+C:\Users\Eva\source\repos\OuncesLab\Debug\OuncesLab.pdb
